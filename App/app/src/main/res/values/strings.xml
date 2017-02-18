@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="pupose_of_asset">
+        <item>Car for careem</item>
+        <item>Bike</item>
+        <item>Television</item>
+        <item>Mobile</item>
+        <item>LCD</item>
+        <item>Study Loan</item>
+    </string-array>
+    <string name="title_activity_personal_detail">PersonalDetailActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_temp">Temp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
